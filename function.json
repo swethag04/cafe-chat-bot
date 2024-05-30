@@ -1,0 +1,12 @@
+{
+  "name": "add_to_order",
+  "description": "Adds the specified drink to the customer's order, including any modifiers.",
+  "parameters": [
+    {
+      "name": "Item",
+      "description": "Menu items ",
+      "required": "False",
+      "type": "string"
+    }
+  ]
+}
